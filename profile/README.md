@@ -4,3 +4,20 @@ Welcome to the new official HoloISO repository, This is fork a of SteamOS and ai
 Any contribution is welcome (*^_^*) You can come to say hi on our Telegram group if you want
 
 Have a nice day ♪(´▽｀)
+
+## Support
+
+Generaly system requires atleast 8 gbs of RAM cause of the installer image itself and system updates. Also its reccomended to 
+install on a 64-128GB ssd disk and higher (Harddisk can work, but its generaly slow asf)
+
+### CPU
+
+Both AMD and intel is supported in these generations:
+
+* Intel Haswell/Broadwell and up...
+* AMD Zen and up...
+
+### GPU
+
+* AMD GPU (unspecified support yet)
+* NVIDIA Maxwell and up (for kepler support is planned)

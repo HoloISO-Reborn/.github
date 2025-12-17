@@ -20,4 +20,4 @@ Both AMD and intel is supported in these generations:
 ### GPU
 
 * AMD GPU (unspecified support yet)
-* NVIDIA Maxwell and up (for kepler support is planned)
+* NVIDIA Maxwell and up... (for kepler support is planned)

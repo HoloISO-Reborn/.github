@@ -10,7 +10,7 @@ Have a nice day ♪(´▽｀)
 Generaly system requires atleast 8 gbs of RAM cause of the installer image itself and system updates. Also its reccomended to 
 install on a 64-128GB ssd disk and higher (Harddisk can work, but its generaly slow asf)
 
-### MOTHERBOARD
+### Motherboard
 
 * Bios have to be either UEFI or have UEFI support, nor installer nor holoiso will boot on legacy anymore
 

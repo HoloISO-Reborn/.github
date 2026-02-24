@@ -27,4 +27,4 @@ Both AMD and intel is supported in these generations:
 * NVIDIA Maxwell and up... (for kepler support is planned)
 
 ### Documentation
-Official [Steam Wiki](steam-wiki.org) V.1.0 public release is expected between March and April, more information on S.W.-Logs directory
+Official [Steam Wiki](steam-wiki.org) V.1.0 public release is expected between March and April, more information on [S.W.-Changelogs directory](https://github.com/HoloISO-Reborn/steam-wiki.org)

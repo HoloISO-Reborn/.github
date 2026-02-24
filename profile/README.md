@@ -25,3 +25,6 @@ Both AMD and intel is supported in these generations:
 
 * AMD GPU (unspecified support yet)
 * NVIDIA Maxwell and up... (for kepler support is planned)
+
+### Documentation
+Official [Steam Wiki](steam-wiki.org) V.1.0 public release is expected between March and April, more information on S.W.-Logs directory

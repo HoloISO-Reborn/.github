@@ -1,4 +1,5 @@
 # About HoloISO
+
 Welcome to the new official HoloISO repository, This is fork a of SteamOS and aim to bring decent gaming experience for mainstream PC, laptops and hand-held game consoles.
 [To report an issue join our Telegram thread](https://github.com/HoloISO-Reborn/HoloISO_builder/issues).
 Any contribution is welcome (*^_^*) You can come to say hi on our Telegram group if you want
@@ -13,6 +14,7 @@ install on a 64-128GB ssd disk and higher (Harddisk can work, but its generaly s
 ### Motherboard
 
 * Bios have to be either UEFI or have UEFI support, nor installer nor holoiso will boot on legacy anymore
+* Virtual machine need passtrough for the gpu, but not reccomended for gaming. HoloISO may not work at all.
 
 ### CPU
 
@@ -27,4 +29,5 @@ Both AMD and intel is supported in these generations:
 * NVIDIA Maxwell and up... (for kepler support is planned)
 
 ### Documentation
+
 Official [Steam Wiki](steam-wiki.org) V.1.0 public release is expected between March and April, more information on **[S.W.-Changelogs directory](https://github.com/HoloISO-Reborn/steam-wiki.org)**
